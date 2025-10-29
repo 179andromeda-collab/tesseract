@@ -179,7 +179,7 @@ export default function Landing() {
       <nav className="navbar">
         <div className="logo">
           <img src={icon} className="header-icon" />{" "}
-          <span class="logo-text">Tesseract</span>
+          <span className="logo-text">Tesseract</span>
         </div>
 
         <div className="nav-right">
